@@ -1,0 +1,51 @@
+div.polaroid{
+    width: 60%;
+    background-color: white;
+    border-radius: 16px;
+    padding-bottom: 1em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+img{
+    width: 100%;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+
+}
+div > p{
+    padding: 24px;
+}
+.ingredients{
+    padding: 24px;
+}
+ul{
+    float: left;
+    padding-right: 20px;
+    background-color: ;
+}
+ul > li, ol > li{
+    
+    padding: 4px;
+    
+}
+.format{
+    width: 60%;
+}
+.lasagna, .turkey-breast, .flan{
+    padding-left: 24px;
+}
+
+
+.directions{
+    display: block;
+    background-color: ;
+    align-content: center;
+    margin-left: 40%;
+    padding-right: 1em ;
+
+}
+
+.format{
+    background-color: ;
+}
